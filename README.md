@@ -19,3 +19,6 @@ Vectors: Practice using dynamic arrays (std::vector) for flexible data storage.
 Basic Control Structures: Reinforce knowledge of control structures (loops, switch-case statements).
 This project provides a solid introduction to C++ and can be expanded with features like error handling, better input validation, and more advanced file handling techniques.
 
+
+https://github.com/user-attachments/assets/d1eb8cc3-f7a4-40d7-b118-861313959097
+
